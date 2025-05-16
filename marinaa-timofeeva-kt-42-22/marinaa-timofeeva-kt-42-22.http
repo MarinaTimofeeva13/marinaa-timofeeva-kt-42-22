@@ -1,0 +1,6 @@
+@marinaa_timofeeva_kt_42_22_HostAddress = http://localhost:5234
+
+GET {{marinaa_timofeeva_kt_42_22_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
